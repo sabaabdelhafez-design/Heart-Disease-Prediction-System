@@ -4,7 +4,7 @@ An end-to-end data engineering and predictive machine learning pipeline develope
 
 ---
 
-## 🛠️ System Architecture & Workflow
+##  System Architecture & Workflow
 
 The project implements a rigorous data engineering lifecycle that guarantees traceablity, data lineage, and reliable predictive modeling.
 
@@ -16,7 +16,7 @@ The project implements a rigorous data engineering lifecycle that guarantees tra
 
 ---
 
-## 📁 Repository Directory Structure
+##  Repository Directory Structure
 
 All generated outputs are cataloged inside the `DataProjectOutputs/` directory, allowing modular access to intermediate states without executing the entire pipeline from scratch.
 
@@ -41,7 +41,7 @@ DataProjectOutputs/
 
 ---
 
-## 🔄 Core Pipeline Phases
+##  Core Pipeline Phases
 
 ### 1. Data Extraction & Profiling
 
@@ -89,7 +89,7 @@ To ensure distance-based models or weight updates are not biased by large data v
 
 ---
 
-## 🤖 Predictive Modeling & Machine Learning
+##  Predictive Modeling & Machine Learning
 
 The integrated dataset is split into independent training and testing sets to evaluate real-world generalizability.
 
